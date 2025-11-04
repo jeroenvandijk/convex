@@ -50,7 +50,7 @@ VOLUME ["/etc/convex/keystore"]
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=3s --start-period=30s --retries=3 \
-    CMD wget --no-verbose --tries=1 --spider http://localhost:${CONVEX_HTTP_PORT}/api/v1/status || exit 1
+    CMD wget --no-verbose --tries=1 --spider http://localhost:${CONVEX_HTTP_PORT} || exit 1
 
 ENTRYPOINT ["java", "-jar", "convex.jar", "peer", "start"]
 
