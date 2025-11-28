@@ -15,7 +15,7 @@ Convex Core is designed as a library to support applications in the Convex ecosy
 
 ## Documentation
 
-- JavaDocs (available in this repository or [from javado.io](https://javadoc.io/doc/world.convex/convex-core))
+- JavaDocs (available in this repository or [from javadoc.io](https://javadoc.io/doc/world.convex/convex-core))
 - [Java Examples](https://github.com/Convex-Dev/convex/tree/develop/convex-core/src/test/java/examples)
 - [Convex Lisp Examples](https://github.com/Convex-Dev/convex/tree/develop/convex-core/src/test/resources/examples)
 
@@ -23,6 +23,6 @@ Convex Core is designed as a library to support applications in the Convex ecosy
 
 Convex Core is distributed under the Convex Public License
 
-Contributors are encouraged to sign the Convex Contribtor's Agreement, which may make contributors eligible for awards of Convex Coins.
+Contributors are encouraged to sign the Convex Contributor's Agreement, which may make contributors eligible for awards of Convex Coins.
 
 Copyright 2018-2024 Convex Foundation and Contributors
